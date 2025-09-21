@@ -1,0 +1,26 @@
+#mrJones{
+            color:brown;
+        }
+        h1, h2, h3, h4 {
+            color:rgb(208, 0, 255);
+            font-size: 30px;
+            background-color: bisque;
+
+        }
+        h1 {
+            color:rgb(0, 110, 255);
+            /* color: rgba(201, 63, 41, 0.723); */
+        }
+        
+        #the-one{
+            color:rgb(3, 133, 40);
+        }
+        .uppercase{
+            text-transform: uppercase;
+            color:rgb(141, 160, 23);
+            background-color: beige; 
+        }
+        .important{
+            color: rgb(255, 72, 0);
+            background-color: bisque;
+        }
